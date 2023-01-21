@@ -11,7 +11,7 @@ Droidian is a GNU/Linux distribution based on top of Mobian, a Debian-based dist
  * Download the latest build here: https://github.com/droidian-onclite/droidian-images/releases
  * Unpack the zip file
  * Run the flash_all.sh script:
-    <pre><code>./flash_all.sh/code></pre>
+    <pre><code>./flash_all.sh</code></pre>
  * Reboot to system and "DO NOT PRESS THE POWER BUTTON WHEN SCREEN IS BLACK or BLANK, BE PATIENT"
  * Support group: https://t.me/DroidianLinux
 
