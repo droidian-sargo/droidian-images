@@ -1,7 +1,7 @@
 # This file has been generated automatically by droidian-new-device
 
-# xiaomi onclite
-xiaomi_onclite:
+# google sargo
+google_sargo:
   type: image
   arch: arm64
   edition: phosh
@@ -10,6 +10,6 @@ xiaomi_onclite:
   use_internal_repository: false
 
   packages:
-    - adaptation-droidian-onclite
-    - adaptation-onclite-configs
-    - yad
+    - adaptation-droidian-sargo
+    - adaptation-sargo-configs
+    - qtwayland5
