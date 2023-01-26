@@ -12,4 +12,5 @@ google_sargo:
   packages:
     - adaptation-droidian-sargo
     - adaptation-sargo-configs
+    - android-system-google-sargo
     - qtwayland5
