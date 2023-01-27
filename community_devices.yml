@@ -13,4 +13,5 @@ google_sargo:
     - adaptation-droidian-sargo
     - adaptation-sargo-configs
     - android-system-google-sargo
+    - droidian-sysfs-torch
     - qtwayland5
