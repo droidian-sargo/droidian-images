@@ -8,7 +8,7 @@ Droidian is a GNU/Linux distribution based on top of Mobian, a Debian-based dist
 # Default password: 1234
 
 ## Installation
- * Download the latest build here: https://github.com/droidian-sargo/droidian-images/releases
+ * Download the latest build here: https://github.com/droidian-sargo/droidian-images/releases/tag/nightly
  * Unpack the zip file
  * Boot to fastboot
  * on Linux run flash_all.sh scrip,t:
@@ -18,6 +18,7 @@ Droidian is a GNU/Linux distribution based on top of Mobian, a Debian-based dist
  * Support group: https://t.me/DroidianLinux
 
 ## Bugs and workarounds
+- Encryption is broken. Device is not unlockable after encryption is enabled.
 * Offline charging is broken.
 * GPS does not work.
 * Fingerprint does not work.
