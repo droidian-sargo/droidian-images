@@ -15,3 +15,9 @@ google_sargo:
     - android-system-google-sargo
     - droidian-sysfs-torch
     - qtwayland5
+    - linux-bootimage-4.9-0-google-sargo
+    - linux-bootimage-google-sargo
+    - linux-headers-4.9-0-google-sargo
+    - linux-headers-google-sargo
+    - linux-image-4.9-0-google-sargo
+    - linux-image-google-sargo
