@@ -13,11 +13,11 @@ google_sargo:
     - adaptation-droidian-sargo
     - adaptation-sargo-configs
     - android-system-google-sargo
+    - linux-bootimage-4.9-124-google-sargo
+    - linux-bootimage-google-sargo
+    - linux-headers-4.9-124-google-sargo
+    - linux-headers-google-sargo
+    - linux-image-4.9-124-google-sargo
+    - linux-image-google-sargo
     - droidian-sysfs-torch
     - qtwayland5
-    - linux-bootimage-4.9-0-google-sargo
-    - linux-bootimage-google-sargo
-    - linux-headers-4.9-0-google-sargo
-    - linux-headers-google-sargo
-    - linux-image-4.9-0-google-sargo
-    - linux-image-google-sargo

@@ -18,8 +18,7 @@ Droidian is a GNU/Linux distribution based on top of Mobian, a Debian-based dist
  * Support group: https://t.me/DroidianLinux
 
 ## Bugs and workarounds
-- Encryption is broken. Device is not unlockable after encryption is enabled.
+- Encryption is not supported
 * Offline charging is broken.
-* GPS does not work.
-* Fingerprint does not work.
-* Only one sim can be used.
+* Fingerprint is not supported by Phosh.
+* Dual sim is not supported by phosh
